@@ -41,7 +41,3 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Website - [Mahmoud Sabea](https://github.com/saab3/)
 - Frontend Mentor - [@saab3](https://www.frontendmentor.io/profile/saab3)
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
