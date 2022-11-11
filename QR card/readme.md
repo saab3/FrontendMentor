@@ -23,8 +23,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Responsive QR card](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
 
@@ -38,8 +38,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Author
 
-- Website - [Add your name here](https://github.com/saab3/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Mahmoud Sabea](https://github.com/saab3/)
+- Frontend Mentor - [@saab3](https://www.frontendmentor.io/profile/saab3)
 
 ## Acknowledgments
 
