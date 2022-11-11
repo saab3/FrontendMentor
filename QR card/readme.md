@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Responsive QR card](https://your-solution-url.com)
+- Solution URL: [Responsive QR card]([https://your-solution-url.com](https://github.com/saab3/FrontendMentor/tree/main/QR%20card))
 - Live Site URL: [Live Site]([https://your-live-site-url.com](https://res-qr-card.netlify.app/))
 
 ## My process
