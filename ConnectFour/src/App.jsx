@@ -265,6 +265,10 @@ function App() {
             </Layer>
         </Stage>
       </div>
+      <div class="attribution">
+          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+          Coded by <a href="#">Mahmoud Sabea</a>.
+      </div>
       {(win) &&
         <div className='game-over' style={{position:'absolute',
                                           top:0,
